@@ -15,3 +15,11 @@ This project focuses on exploring 1.5 lakh booking records to understand operati
 ***Operational Growth & Retention*** – Measuring month-over-month growth (CMGR), retention rate of customers, and long-term usage trends.
 
 ***Customer Experience & Satisfaction*** – Analyzing customer and driver ratings to assess service quality
+
+All data inspection, cleaning, and exploratory analysis were performed in a Jupyter Notebook using Python and popular data analysis libraries such as:
+
+Dataset Source (Kaggle)
+
+Environment (Jupyter Notebook)
+
+Tools Used (Python, Pandas, NumPy, Matplotlib, Seaborn)
