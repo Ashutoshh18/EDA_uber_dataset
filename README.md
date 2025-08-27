@@ -1,33 +1,10 @@
-# Uber Data Analysis using EDA
+# Project Background
+Uber is a global ride-hailing platform that connects customers with drivers through its app. Since its launch in 2009, Uber has revolutionized urban transportation by providing on-demand rides, transparent pricing, and cashless payments
 
-This project is an exploratory data analysis (EDA) of an Uber ride booking dataset. The objective was to analyze booking patterns, identify success and failure trends, and uncover the major reasons behind booking cancellations.
-
-Project Overview
-
-The analysis focuses on understanding booking behavior, customer and driver cancellations, and overall operational efficiency. The goal was to provide data-driven insights that can help improve service reliability.
-
-Key Findings
-
-- Total bookings analyzed: 150,000  
-- Successful bookings: 103,500 (69%)  
-- Failed bookings: 46,500 (31%)  
-- Among failed bookings, driver cancellations were the highest contributor, followed by customer cancellations and incomplete bookings  
-- Majority of booking failures stem from operational inefficiencies on the driver side  
-
-Tools Used
-
-- Python  
-- Pandas and NumPy  
-- Matplotlib and Seaborn for data visualization  
-- Jupyter Notebook  
-
-Key Takeaways
-
-Analyzing booking success and failure patterns provides valuable insights into customer experience and operational efficiency. Understanding the distribution of cancellations can help businesses optimize driver allocation, reduce failed bookings, and improve customer satisfaction.
-
-Future Scope
-
-- Build predictive models to estimate the likelihood of cancellations  
-- Perform time-series analysis of bookings across different time periods  
-- Develop interactive dashboards using Plotly or Streamlit for business reporting
-
+this project focuses on exploring 1.5 lakh booking records to understand operational efficiency and customer behavior. The analysis dives into key performance areas such as:
+Overall Booking Performance Metrics – Understanding the ratio of successful vs failed rides, along with a detailed breakdown of customer cancellations, driver cancellations, and incomplete rides.
+Performance by Vehicle Type – Evaluating demand, cancellations, breakdowns, and booking value across different vehicle categories.
+Financial Analysis – Estimating revenue earned, potential revenue lost due to cancellations or incomplete rides, and average revenue per ride.
+Ride Distribution by Time & Location – Identifying peak booking hours, popular pickup hubs, and demand concentration.
+Operational Growth & Retention – Measuring month-over-month growth (CMGR), retention rate of customers, and long-term usage trends.
+Customer Experience & Satisfaction – Analyzing customer and driver ratings to assess service quality
