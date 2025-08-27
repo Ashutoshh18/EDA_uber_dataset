@@ -1,5 +1,5 @@
 # Project Background
-## Uber is a global ride-hailing platform that connects customers with drivers through its app. Since its launch in 2009, Uber has revolutionized urban transportation by providing on-demand rides, transparent pricing, and cashless payments
+### Uber is a global ride-hailing platform that connects customers with drivers through its app. Since its launch in 2009, Uber has revolutionized urban transportation by providing on-demand rides, transparent pricing, and cashless payments
 
 This project focuses on exploring 1.5 lakh booking records to understand operational efficiency and customer behavior. The analysis dives into key performance areas such as:
 
