@@ -81,5 +81,7 @@ For stakeholders, the key takeaway is:
 
 ***Additionally, the company’s Compound Monthly Growth Rate (CMGR) is -0.37%, highlighting stagnant growth that could worsen if controllable cancellations are not addressed.***
 
-<img width="1920" height="1080" alt="Untitled design (1)" src="https://github.com/user-attachments/assets/a66eccff-730e-4863-9555-7b38cd263cf0" />
+<img width="1367" height="864" alt="Untitled design (2)" src="https://github.com/user-attachments/assets/9b2aee58-158a-4cf9-b4fa-f88a373e14c2" />
+
+
 
