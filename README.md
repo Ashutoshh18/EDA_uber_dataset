@@ -6,17 +6,22 @@ This project focuses on exploring 1.5 lakh booking records to understand operati
 
 ***Overall Booking Performance Metrics*** – Understanding the ratio of successful vs failed rides, along with a detailed breakdown of customer cancellations, driver cancellations, and incomplete rides.
 
-**Performance by Vehicle Type*** – Evaluating demand, cancellations, breakdowns, and booking value across different vehicle categories.
+**Performance by Vehicle Type*** – Evaluating demand, cancellations, breakdowns, and booking value 
+across different vehicle categories.
 
-***Financial Analysis*** – Estimating revenue earned, potential revenue lost due to cancellations or incomplete rides, and average revenue per ride.
+***Financial Analysis*** – Estimating revenue earned, potential revenue lost due to cancellations or 
+incomplete rides, and average revenue per ride.
 
-***Ride Distribution by Time & Location*** – Identifying peak booking hours, popular pickup hubs, and demand concentration.
+***Ride Distribution by Time & Location*** – Identifying peak booking hours, popular pickup hubs, 
+and demand concentration.
 
-***Operational Growth & Retention*** – Measuring month-over-month growth (CMGR), retention rate of customers, and long-term usage trends.
+***Operational Growth & Retention*** – Measuring month-over-month growth (CMGR), retention rate of customers,
+and long-term usage trends.
 
 ***Customer Experience & Satisfaction*** – Analyzing customer and driver ratings to assess service quality
 
-All data inspection, cleaning, and exploratory analysis were performed in a Jupyter Notebook using Python and popular data analysis libraries such as:
+All data inspection, cleaning, and exploratory analysis were performed in a Jupyter Notebook 
+using Python and popular data analysis libraries such as:
 
 Dataset Source (Kaggle)
 Environment (Jupyter Notebook)
