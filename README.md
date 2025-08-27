@@ -67,3 +67,16 @@ Inspect data types (numeric, categorical, datetime)
 Check for duplicates and inconsistencies
 
 Ensure overall data quality before deeper analysis
+
+
+# Executive Summary - Overview of findings
+
+#### In analyzing 150,000 Uber bookings, we found that 31% of rides were cancelled. Of these, 58% were driver cancellations, followed by incomplete rides, which together represent controllable factors leading to significant revenue loss. In contrast, customer cancellations, while frequent, are largely outside of company control.
+
+For stakeholders, the key takeaway is:
+
+***Driver cancellations are the single largest contributor to lost revenue.***
+
+***Incomplete rides add further controllable loss, compounding the issue.***
+
+***Additionally, the company’s Compound Monthly Growth Rate (CMGR) is -0.37%, highlighting stagnant growth that could worsen if controllable cancellations are not addressed.***
