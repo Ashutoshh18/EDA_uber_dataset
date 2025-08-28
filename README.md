@@ -110,6 +110,19 @@ Booking values are fairly uniform, with Go Sedan highest at ₹501.7 per ride, i
 
 <img width="1920" height="1080" alt="Untitled design (4)" src="https://github.com/user-attachments/assets/eace6b6a-08ba-4424-b647-79c12477668f" />
 
+### Financial Analysis – Revenue Earned vs Potential Revenue and Loss Estimation
+
+- Significant revenue loss from controllable factors
+Out of a potential revenue of ₹67.37M, the company earned ₹51.61M, resulting in a revenue loss of ₹15.76M. This highlights the financial impact of controllable operational failures.
+
+- Driver cancellations are the largest contributor to lost revenue
+Driver cancellations account for 70.9% of the lost revenue, while incomplete rides contribute 29.1%, indicating that improving driver reliability could recover the majority of lost income.
+
+- Revenue varies by vehicle type
+Autos generated the most revenue (₹12.84M), followed by Go Mini (₹10.25M) and Go Sedan (₹9.35M), showing that high-demand vehicles contribute disproportionately to total earnings.
+
+<img width="1920" height="1080" alt="Untitled design (5)" src="https://github.com/user-attachments/assets/2e4e5992-075c-4392-8941-2004f96181b6" />
+
 
 
 
