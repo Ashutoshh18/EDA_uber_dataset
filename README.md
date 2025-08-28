@@ -95,7 +95,9 @@ Of the failed bookings, 58% were due to driver cancellations, making driver beha
 - Failure reasons reveal operational gaps
 Most customer cancellations happened because drivers didn’t approach the pickup or requested cancellation. Driver cancellations were mainly due to personal emergencies or overcapacity, while incomplete rides were caused by vehicle breakdowns or unmet demand. These highlight key operational inefficiencies that, if addressed, could improve reliability and revenue.
 
-<img width="1920" height="1080" alt="Untitled design (3)" src="https://github.com/user-attachments/assets/15b80307-8e84-4732-af5f-0e506c151a0b" />
+<img width="6778" height="1960" alt="my_plot" src="https://github.com/user-attachments/assets/5154c8a5-9dc1-4484-909e-af2112409b69" />
+
+
 
 
 
