@@ -136,6 +136,17 @@ The compound monthly growth rate of -0.37% and a retention rate of only 0.81% sh
 
 <img width="1920" height="1080" alt="Untitled design (6)" src="https://github.com/user-attachments/assets/8c05336b-92ba-4b85-903b-5c4a5213cb70" />
 
+### Customer Experience & Ride Distribution
+
+- Ride demand peaks in the morning (22.3%) and evening (29.7%), with minimal activity late at night (3.6%), highlighting clear hours for focused driver allocation.
+
+- The top 10 pickup locations have similar ride volumes, showing that demand is evenly distributed across key areas rather than concentrated in a few hotspots.
+
+- Customer satisfaction is high (4.44) and driver ratings are strong (4.26), reflecting consistent service quality across all vehicle types and supporting operational efficiency improvements.
+
+<img width="1920" height="1080" alt="Untitled design (7)" src="https://github.com/user-attachments/assets/b996a938-de4f-456b-be09-ed5686537e5b" />
+
+
 
 
 
