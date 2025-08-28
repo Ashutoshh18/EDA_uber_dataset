@@ -123,6 +123,18 @@ Autos generated the most revenue (₹12.84M), followed by Go Mini (₹10.25M) an
 
 <img width="1920" height="1080" alt="Untitled design (5)" src="https://github.com/user-attachments/assets/2e4e5992-075c-4392-8941-2004f96181b6" />
 
+### Operational CMGR % Growth Anaylysis
+
+- Month-over-month growth fluctuates inconsistently
+The month-over-month bookings show a rollercoaster pattern, with some months gaining traction (e.g., Month 3: +7.64%) and others losing ground (e.g., Month 2: -6.99%), highlighting inconsistent demand and operational volatility
+
+- Overall growth is negative
+Overall, the business is struggling to grow, with total bookings declining by -4.31% over the year, signaling stagnation that needs urgent attention.
+
+- Compound monthly growth rate and retention signal weak momentum
+The compound monthly growth rate of -0.37% and a retention rate of only 0.81% show that the company is not only failing to expand its customer base but also struggling to keep existing customers engaged, emphasizing the importance of improving service reliability and the overall customer experience.
+
+<img width="1920" height="1080" alt="Untitled design (6)" src="https://github.com/user-attachments/assets/8c05336b-92ba-4b85-903b-5c4a5213cb70" />
 
 
 
