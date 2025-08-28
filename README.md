@@ -97,6 +97,19 @@ Most customer cancellations happened because drivers didn’t approach the picku
 
 <img width="6778" height="1960" alt="my_plot" src="https://github.com/user-attachments/assets/5154c8a5-9dc1-4484-909e-af2112409b69" />
 
+### Peformance metrics by vehicle type
+
+- Autos dominate bookings
+Autos received 37,419 rides, followed by Go Mini (29,806) and Go Sedan (27,141), showing strong customer preference for affordable, convenient vehicles.
+
+- High-demand vehicles face more breakdowns
+Autos and Go Mini had the most breakdowns (740 and 617, respectively), causing incomplete rides and revenue loss, highlighting the need for targeted maintenance.
+
+- Average booking value is consistent
+Booking values are fairly uniform, with Go Sedan highest at ₹501.7 per ride, indicating that improving availability and reliability of popular vehicles can directly boost revenue.
+
+<img width="1920" height="1080" alt="Untitled design (4)" src="https://github.com/user-attachments/assets/eace6b6a-08ba-4424-b647-79c12477668f" />
+
 
 
 
