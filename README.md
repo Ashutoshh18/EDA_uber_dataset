@@ -146,6 +146,18 @@ The compound monthly growth rate of -0.37% and a retention rate of only 0.81% sh
 
 <img width="1920" height="1080" alt="Untitled design (7)" src="https://github.com/user-attachments/assets/b996a938-de4f-456b-be09-ed5686537e5b" />
 
+# Recommendations
+#### Based on the uncovered insights, followings recommendations have been provied
+
+- Cut driver cancellations: With 58% of failed rides caused by drivers, incentives or alerts could recover major revenue.
+
+- Reduce incomplete rides: Focus on vehicle maintenance and fleet allocation, especially for Autos and Go Minis, to prevent breakdowns and unmet demand.
+
+- Optimize peak hours: Morning (22%) and evening (30%) are busiest; deploy top-performing vehicles during these periods for maximum bookings.
+
+- Boost growth and retention: Overall bookings are stagnant (-4.31% growth, CMGR -0.37%) and retention is just 0.81%. Combine loyalty programs, targeted marketing, and operational efficiency improvements to stabilize and grow the customer base.
+
+- Maintain service quality: Customer (4.44) and driver (4.26) ratings are strong; ongoing monitoring ensures consistency and prevents drops in satisfaction.
 
 
 
