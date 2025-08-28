@@ -83,5 +83,19 @@ For stakeholders, the key takeaway is:
 
 <img width="1367" height="864" alt="Untitled design (2)" src="https://github.com/user-attachments/assets/9b2aee58-158a-4cf9-b4fa-f88a373e14c2" />
 
+# Insights Deep dive
+### Overall Booking Performance Metrics
+
+-High cancellation rate is hurting growth
+Out of 150,000 total rides, only 69% were completed successfully, meaning 31% of rides failed. Nearly 1 in 3 customers fails to complete their journey, directly impacting both revenue and customer trust.
+
+-Driver cancellations dominate failed bookings
+Of the failed bookings, 58% were due to driver cancellations, making driver behavior the largest controllable contributor to revenue loss. Targeting driver cancellation policies could unlock significant efficiency gains.
+
+-Failure reasons reveal operational gaps
+Most customer cancellations happened because drivers didn’t approach the pickup or requested cancellation. Driver cancellations were mainly due to personal emergencies or overcapacity, while incomplete rides were caused by vehicle breakdowns or unmet demand. These highlight key operational inefficiencies that, if addressed, could improve reliability and revenue.
+
+
+
 
 
